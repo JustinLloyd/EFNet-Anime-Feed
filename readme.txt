@@ -1,13 +1,14 @@
-EFNet Anime Feed
-================
-
-Thanks for your interest in EFNet Anime Feed. This project is now hosted at 
-https://bitbucket.org/JustinLloyd/efnet-anime-feed
+* Welcome
+Thanks for downloading EFNet Anime Feed. This code is left here for
+historical reasons.
 
 
 
-License
-====================
+Visit https://bitbucket.org/JustinLloyd/efnet-anime-feed/overview for 
+more information and to download the latest version.
+
+
+* License
                       DO WHATEVER PUBLIC LICENSE*
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
@@ -22,8 +23,7 @@ License
  Software originally created by Justin Lloyd @ http://otakunozoku.com/
 
 
-About
-====================
+* About
 Back in the dawn of the commercial internet, circa 1995, there was a little
 used language that became known as Java. After tinkering with it for about a
 year or so for mundane things that the company I worked for wanted done I
@@ -44,13 +44,11 @@ The server and the server software that this client software communicated with
 is long gone unfortunately and only this small demo is left to mark that it
 ever existed.
     
-Pre-requisites
-====================
+* Pre-requisites
 1. Java compiler
 
 
-Support
-====================
+* Support
 Absolutely none provided.
 
 
@@ -64,3 +62,4 @@ Software originally created by Justin Lloyd, October 2012
   added two extra clauses to the DO WHATEVER PUBLIC LICENSE that prevents you
   from revoking the license and preventing other people from doing whatever
   they want to with the work.
+  
